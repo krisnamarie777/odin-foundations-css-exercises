@@ -1,0 +1,14 @@
+button {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+button.nice {
+    color: #ffffff;
+    background: #000000;
+}
+
+button.evil {
+    color: #000000;
+    background: #ffff00;
+}
