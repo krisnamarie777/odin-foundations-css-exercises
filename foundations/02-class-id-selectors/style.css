@@ -1,0 +1,18 @@
+.odd {
+    background: #ee9e8d;
+    font-style: Verdana, 'Dejavu Sans', san-serif;
+}
+
+p.accent {
+    font-size: 24px;
+}
+#two {
+    color: #0000ff; 
+    font-size: 36px;
+}
+
+#four {
+    background: #22ff22;
+    font-size: 24px;
+    font-weight: bold;
+}
